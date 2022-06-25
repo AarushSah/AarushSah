@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AarushSah!
-- 👀 I’m interested in STEM, Entrepreneurship, Economics, and some Social Sciences.
-- 🌱 I’m currently learning Front-End Development.
-- 📫 How to reach me: bd561951@ahschool.com
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning how to become a full stack developer.
+<!---- 📫 How to reach me: bd561951@ahschool.com --->
 
 <!---
 AarushSah/AarushSah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
