@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AarushSah!
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning how to become a full stack developer.
-<!---- 📫 How to reach me: bd561951@ahschool.com --->
+- 👋 Hi, I’m @AarushSah
+- I code and stuff
+- I like building products
+<!---- 📫 How to reach me: send me an owl --->
 
 <!---
 AarushSah/AarushSah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
